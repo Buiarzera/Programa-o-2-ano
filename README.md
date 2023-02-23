@@ -1,4 +1,4 @@
-# Programa-o-2-ano
+# Programaçao 2° ano (Noturno)
 
 Professor: Lucas Buiar
 
